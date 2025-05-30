@@ -15,18 +15,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mpawlikcreatio/mcpCreatioServer.git"
+    "url": "git+https://github.com/michalpawlik93/mcpLocalServer.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mpawlikcreatio/mcpCreatioServer/issues"
+    "url": "https://github.com/michalpawlik93/mcpLocalServer/issues"
   },
   "files": [
     "build"
   ],
-  "homepage": "https://github.com/mpawlikcreatio/mcpCreatioServer#readme",
+  "homepage": "https://github.com/michalpawlik93/mcpLocalServer#readme",
   "devDependencies": {
     "@types/express": "^5.0.1",
     "@types/node": "^22.15.18",

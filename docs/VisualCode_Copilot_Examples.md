@@ -11,7 +11,7 @@ Use local MCP server. List me all available prompts by calling the "list_prompts
 
 ---
 
-Description: 💻 Create JavaScript Code (Creatio Style)
+Description: 💻 Create JavaScript Code
 
 Prompt text:
 Use the local MCP server.
@@ -24,7 +24,7 @@ Step 3: Once all guide files are processed, generate a .ts file with a class cal
 
 ---
 
-Description: 💾 Create C# Class (Creatio Style)
+Description: 💾 Create C# Class
 Prompt text:
 Use the local MCP server.
 

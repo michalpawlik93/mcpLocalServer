@@ -4,7 +4,7 @@ This project is a Node.js application for Windows OS called **MCP Server**. It s
 
 MCP Server uses the third-party library [`@modelcontextprotocol/sdk`](https://www.npmjs.com/package/@modelcontextprotocol/sdk), which allows you to run and test it in a web browser using the Inspector tool.
 
-The project includes a predefined `./data` directory that contains documentation and guide files used to assist with coding in the Creatio environment. Additionally, a `./data/prompts` subfolder contains prompt files used by Copilot Agents to guide their behavior and output.
+The project includes a predefined `./data` directory that contains documentation and guide files used to assist with coding. Additionally, a `./data/prompts` subfolder contains prompt files used by Copilot Agents to guide their behavior and output.
 
 ## Configuration
 
@@ -93,7 +93,7 @@ You can find more examples in "../docs/VisualCode_Copilot_Examples"
 
 ```
 
-Description: 💾 Create C# Class (Creatio Style)
+Description: 💾 Create C# Class
 Prompt text:
 Use the local MCP server.
 
